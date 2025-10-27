@@ -43,7 +43,7 @@
     "rowClasses": "common-table-row w-full my-8 border-r border-l border-gray-300 shadow-md font-themeMontserrat transition-all flex flex-col flex-nowrap items-center justify-start lg:border-l-0 lg:border-r-0 lg:border-b lg:py-3 lg:my-0 lg:shadow-none lg:flex-row lg:bg-white lg:hover:bg-gray-100 print:shadow-sm",
     "cellClasses": "common-table-cell flex-grow w-full py-2 border-b border-gray-300 text-xxs text-gray-600 flex flex-row flex-nowrap items-center justify-center last:border-b-0 lg:py-0 lg:border-b-0 lg:border-r lg:first:border-l lg:first:border-t-0 lg:last:border-b-0",
     "cellTitleClasses": "common-table-cell-title w-1/2 px-4 py-2 border-r border-gray-300 text-center text-xxs font-semibold lg:hidden lg:w-full lg:border-r-0 lg:text-xs",
-    "cellValueClasses": "common-table-cell-value w-1/2 px-2 py-1 text-center text-xxs lg:w-full",
+    "cellValueClasses": "common-table-cell-value w-1/2 px-2 py-1 text-center text-xxs lg:w-auto",
     "cellValueLinkClasses": "common-table-cell-value-link w-1/2 text-center text-xxs flex flex-row flex-nowrap justify-center lg:w-full",
     "cellValueDocumentClasses": "common-table-cell-value-document w-full h-full  px-4 py-2 w-full h-full no-underline outline-none rounded-md cursor-pointer flex flex-col flex-nowrap items-center justify-center",
     "cellValueIconButtonClasses": "common-table-cell-value-icon w-auto flex flex-col flex-nowrap items-center justify-center",
