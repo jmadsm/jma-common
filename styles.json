@@ -20,11 +20,11 @@
     },
     "dashboard": {
       "mainContainer": "common-dashboard-container relative w-full h-full shadow-top-bottom flex flex-col flex-nowrap justify-center",
-      "innerContainer": "common-dashboard-container-inner w-full h-full py-5 bg-white bg-opacity-95 flex flex-col flex-nowrap justify-center",
+      "innerContainer": "common-dashboard-container-inner w-full h-full py-5 flex flex-col flex-nowrap justify-center",
       "messageClasses": "common-dashboard-user-message w-full p-5 text-center text-gray-600 flex flex-col flex-nowrap items-center justify-center",
       "panelsGrid": "common-dashboard-panels-grid items-grid w-full h-full max-w-massive px-6 flex flex-col flex-wrap items-center justify-center lg:flex-row lg:px-2",
-      "panelMainContainer": "common-dashboard-panel-container w-full max-w-[280px] p-2 transition-all flex flex-col flex-nowrap items-center justify-center lg:w-1/4 lg:h-15 lg:max-w-full",
-      "panelInnerContainer": "common-dashboard-panel-container-inner w-full h-full px-4 py-5 bg-opacity-80 rounded text-center uppercase no-underline cursor-pointer shadow-md border transition-all flex flex-col flex-nowrap items-center justify-evenly hover:shadow-lg"
+      "panelMainContainer": "common-dashboard-panel-container w-full max-w-[280px] p-2 transition-all flex flex-col flex-nowrap items-center justify-center lg:w-1/4 lg:h-72 lg:max-w-full",
+      "panelInnerContainer": "common-dashboard-panel-container-inner w-full h-full px-4 py-5 bg-opacity-80 rounded text-center uppercase no-underline cursor-pointer shadow-md border transition-all flex flex-col flex-nowrap items-center justify-center hover:shadow-lg"
     }
   },
   "pagination": {
